@@ -1,0 +1,24 @@
+Here I will describe all the new things I found out about templates.
+
+01/05/2021
+
+Started to read C++ Templates: The Complete Guide, Part III Templates and
+Design.
+
+Read the comparison between static and dynamic polymorphism in C++. Learnt
+their strong and weak sides. Found out that there is special patterns for
+static polymorphism with templates.
+
+02/05/2021
+
+Started to read Chapter 19 Implementing Traits.
+
+Implemented traits for function `accum` from examples #1-3 (omitted #4).
+Placed them in ./traits/.
+
+Implemented traits and policies for function accum from the rest of examples.
+Learnt new terms Trait and Policy. Traits consist of properties and special
+values, policies regulate behavior.
+
+Instruction pointer: Chapter 19.3 Type Functions (page 401).
+
