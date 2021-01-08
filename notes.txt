@@ -9,7 +9,7 @@ Read the comparison between static and dynamic polymorphism in C++. Learnt
 their strong and weak sides. Found out that there is special patterns for
 static polymorphism with templates.
 
-02/05/2021
+01/06/2021
 
 Started to read Chapter 19 Implementing Traits.
 
@@ -20,5 +20,15 @@ Implemented traits and policies for function accum from the rest of examples.
 Learnt new terms Trait and Policy. Traits consist of properties and special
 values, policies regulate behavior.
 
-Instruction pointer: Chapter 19.3 Type Functions (page 401).
+01/08/2021
+
+Started to read Chapter 19.3 Type Functions.
+
+Value function - function that takes some values as arguments and return
+another value as a result. Type function - function template that takes some
+types as template arguments and produce a type or a constant as a result.
+
+Learnt transformation, predicate and (almost) SFINAE-based traits.
+
+Instruction pointer: Chapter 19.4 due to necessity of repeat.
 
