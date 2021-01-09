@@ -30,5 +30,10 @@ types as template arguments and produce a type or a constant as a result.
 
 Learnt transformation, predicate and (almost) SFINAE-based traits.
 
-Instruction pointer: Chapter 19.4 due to necessity of repeat.
+01/09/2021
+
+Brief repeating of Chapter 19 Implementing Traits. Read about SFINAE-based
+traits. Read about templates instantiation details and name resolving in C++.
+
+Instruction pointer: Chapter 19.4.4 SFINAE-Friendly Traits.
 
